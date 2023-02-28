@@ -1,0 +1,117 @@
+/* Small reset */
+body {
+  margin: 0;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+/* Styles for the navbar and its content */
+nav {
+  display: flex;
+  align-items: center;
+  background-color: #b2283d;
+}
+nav > ul {
+  display: flex;
+  width: 20vw;
+  justify-content: space-around;
+  list-style: none;
+}
+
+nav a {
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: beige;
+  border-bottom: 2px solid beige;
+}
+
+nav > img {
+  width: 100px;
+  height: auto;
+}
+
+/* Styles for the header */
+body > header {
+  background-color: whitesmoke;
+  padding-bottom: 1vh;
+}
+
+body > header > h1 {
+  font-size: 3rem;
+  margin-left: 1vw;
+}
+
+body > header > p {
+  margin-left: 2vw;
+}
+
+/* Styles for the main section */
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-content: space-around;
+  padding: 4vh 0;
+}
+
+/* Styles for the article (cards) */
+article {
+  width: 30vw;
+  min-width: 400px;
+  border: 2px solid #b2283d;
+  border-radius: 25px;
+  padding: 0 20px;
+  margin-bottom: 2vh;
+  text-align: center;
+}
+
+article > header {
+  border-bottom: 2px solid #b2283d;
+}
+
+article > header > h1 {
+  font-weight: 200;
+  font-size: 3rem;
+  border-bottom: 2px solid #b2283d;
+  margin-bottom: 1vh;
+}
+
+article > header > h3 {
+  margin-top: 0;
+  font-weight: 200;
+}
+
+article img {
+  background-color: whitesmoke;
+  border-radius: 25px;
+  max-width: 350px;
+}
+
+article > section {
+  border-bottom: 2px solid #b2283d;
+}
+article > section > div {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+/* Styles for the footer */
+footer {
+  display: flex;
+  background-color: #444;
+  color: whitesmoke;
+  align-items: center;
+}
+
+footer > p {
+  margin-left: 2vw;
+}
+
+footer > ul {
+  list-style: none;
+}
+
+footer li {
+  border-bottom: 2px solid whitesmoke;
+}

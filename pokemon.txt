@@ -1,0 +1,64 @@
+Pokeball image:
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/770px-Pok%C3%A9_Ball_icon.svg.png
+
+
+Pokemon information:
+____
+
+Bulbasaur
+The grass starter
+https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png
+
+fig 1. The pokemon bulbasaur, a grass type frog dinosaur
+
+Description
+
+Bulbasaur (Japanese: フシギダネ Fushigidane) is a dual-type Grass/Poison Pokémonvintroduced in Generation I. Bukbasaur's first appearance was invPokémon - I Choose You! It evolves into Ivysaur starting at level 16,vwhich evolves into Venusaur starting at level 32. Along with Charmander and Squirtle, Bulbasaur is one of the three starter Pokémon of Kanto available at the beginning of Pokémon Red, Green, Blue, FireRed, and LeafGreen.
+
+Stats
+
+Attack : 49
+Defense: 49
+HP: 45
+
+Chosen by 10 people
+
+______________
+
+Charmander
+The fire starter
+https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png
+
+fig 2. The pokemon Charmander, a fire type reptilian
+
+Description
+
+Charmander (Japanese: ヒトカゲ Hitokage) is a Fire-type Pokémon introduced in Generation I. Charmander's first appearance was in Pokémon - I Choose You! It evolves into Charmeleon starting at level 16, which evolves into Charizard starting at level 36. Along with Bulbasaur and Squirtle, Charmander is one of the three starter Pokémon of Kanto available at the beginning of Pokémon Red, Green, Blue, FireRed, and LeafGreen.
+
+Stats
+
+Attack : 52
+Defense: 43
+HP: 39
+
+Chosen by 23 people
+
+______________
+
+Squirtle
+The water starter
+https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png
+
+fig 3. The pokemon Squirtle, a water type turtle
+
+Description
+
+Squirtle (Japanese: ゼニガメ Zenigame) is a Water-type Pokémon introduced in Generation I. Squirtle's first appearance was in Pokémon - I Choose You! It evolves into Wartortle starting at level 16, which evolves into Blastoise starting at level 36. Along with Bulbasaur and Charmander, Squirtle is one of the three starter Pokémon of Kanto available at the beginning of Pokémon Red, Green, Blue, FireRed, and LeafGreen.
+
+Stats
+
+Attack : 48
+Defense: 65
+HP: 44
+
+Chosen by 17 people
